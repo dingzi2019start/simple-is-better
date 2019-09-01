@@ -1,0 +1,11 @@
+//test just for fun
+//auther: liliangfeng
+//date: 2019年9月1日
+//function: test
+#include<stdio.h>
+
+int main(int argc, char** avgp)
+{
+  printf("hello world!\n");
+  return 0;
+}
